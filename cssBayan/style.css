@@ -1,0 +1,60 @@
+html {
+   scroll-behavior: smooth;
+}
+html,
+body {
+   height: 100%;
+}
+
+* {
+   padding: 0;
+   margin: 0;
+   border: 0;
+   box-sizing: border-box;
+}
+ul,
+li {
+   list-style: none;
+}
+
+.wrapper {
+   display: flex;
+   flex-direction: column;
+   min-height: 100%;
+   align-items: center;
+
+   margin: 0 auto;
+}
+
+.header {
+}
+.header__container {
+}
+.main {
+}
+.main__container {
+}
+.menu__bayan {
+   background-color: #f5f5eb;
+   padding: 2vw 10vw 0 10vw;
+}
+
+.menu__item {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   align-items: baseline;
+   border-top: 0.1vw solid black;
+   padding: 2vw 0 1vw 0;
+   margin: 2vw 0 1vw 0;
+}
+
+h2 {
+   font-size: 3vw;
+   padding: 0 0 2vw 0;
+}
+
+.image {
+   align-self: center;
+   width: 35vw;
+}
