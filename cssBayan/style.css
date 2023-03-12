@@ -319,6 +319,7 @@ h2 {
       display: block;
    }
    .main__container {
+      margin-top: 10vw;
       padding: 2vw 3vw 2vw 3vw;
    }
    .menu__item {
