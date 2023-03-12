@@ -140,18 +140,6 @@ h2 {
    height: 20vw;
    width: 20vw;
 }
-
-/* .main__container label:not(:hover) + .image {
-   margin-top: 1vw;
-   margin-bottom: 0.5vw;
-   color: #000;
-
-   opacity: 0%;
-   transform: scale(0);
-   height: 0;
-   width: 0;
-} */
-
 .menu__bayan:hover .plus {
    display: block;
 }
