@@ -4,6 +4,7 @@ My Your deployed accordion https://SiDgiF.github.io/cssBayan/cssBayan/index.html
 
 Максимальный балл 140
 
+
 1. Все делается из Repository requirements and how to submit taskраздела +30
 2. Компонент аккордеона располагается по центру экрана, с равными отступами слева и справа +10
 3. Иконки, тексты мемов и изображения мемов существуют +5
