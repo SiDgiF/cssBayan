@@ -1,1 +1,1 @@
-https://github.com/DrDiman/CSS-Bayan-task
+https://SiDgiF.github.io/cssBayan/cssBayan/index.html
